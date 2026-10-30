@@ -1,0 +1,6 @@
+{
+  "name": "Kaudal — Control de Finanzas Personales",
+  "description": "Plataforma integral de finanzas personales para control de ingresos, gastos geolocalizados, carteras líquidas, presupuestos y reportes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
